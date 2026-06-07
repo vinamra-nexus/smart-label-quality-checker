@@ -196,7 +196,7 @@ smart-label-quality-checker/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/smart-label-quality-checker.git
+git clone https://github.com/vinamra-nexus/smart-label-quality-checker.git
 ```
 
 Navigate to the project directory:
