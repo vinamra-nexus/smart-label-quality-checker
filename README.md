@@ -4,6 +4,10 @@ An AI-powered data quality assessment platform designed to detect annotation err
 
 The application helps data annotators, ML engineers, and AI practitioners improve dataset quality before model training through automated quality analysis, visual dashboards, AI-powered recommendations, and downloadable reports.
 
+## 🚀 Live Demo
+
+👉 [Launch Smart Label Quality Checker](https://smart-label-quality-checker-p26uhwizdgzt9d3vqvpt8y.streamlit.app/)
+
 ---
 
 ## 🚀 Features
